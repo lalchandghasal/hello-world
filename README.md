@@ -1,3 +1,3 @@
 # hello-world
-hello-world "/n"
+hello-world 
 This is first Github project.
